@@ -1,0 +1,20 @@
+.c1{
+    background-color: #eea5e5;
+    display: flex;
+    justify-content: space-around;
+}
+.card{
+    align-items: center;
+}
+.card-body{
+    display: contents;
+}
+.c2{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-around;
+
+}
