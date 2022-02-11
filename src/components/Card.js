@@ -1,9 +1,9 @@
 import React from 'react'
 
 const Card = ({ myObj }) => {   //myObj = array of objects
-    const handleClick = () => {
-        alert("order placed")
-    }
+    const handleClick = (name) =>{
+        alert(`Order Placed, Thanks for Purchasing "${name.toUpperCase()}"`);
+      }
     return (
         <div className="c2">
             {myObj.map((ele) => {   //map method runs for each element of the array i.e myObj
@@ -14,7 +14,7 @@ const Card = ({ myObj }) => {   //myObj = array of objects
                         <div className="card-body">
                             <h5 className="card-title">{name}</h5>
                             <span>Price Rs. {price}/-</span>
-                            <button type="button" className="btn btn-primary my-3" onClick={() => handleClick()}>order now</button>
+                            <button type="button" className="btn btn-primary my-3" onClick={() => handleClick(name)}>order now</button>
                         </div>
                     </div>
                 )

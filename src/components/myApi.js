@@ -2,161 +2,161 @@ const Menu = [
     {
         id: 11,
         image: 'img/moshrom thali.jpeg',
-        name: 'mushroom thali',
+        name: 'Mushroom Thali',
         price: 90,
         category: 'lunch'
     },
     {
         id: 2,
         image: 'img/motton thali.jpeg',
-        name: 'motton thali',
+        name: 'Motton Thali',
         price: 150,
         category: 'lunch'
     }, 
     {
         id: 3,
         image: 'img/chaomin.jpeg',
-        name: 'chaomin',
+        name: 'Chaomin',
         price: 70,
         category: 'evening'
     }, 
     {
         id: 4,
         image: 'img/chhole.jpeg',
-        name: 'chhole',
+        name: 'Chhole',
         price: 45,
         category: 'dinner'
     },
     {
         id: 5,
         image: 'img/fish thali.jpeg',
-        name: 'fish thali',
+        name: 'Fish Thali',
         price: 80,
         category: 'dinner'
     },
     {
         id: 6,
         image: 'img/chai.jpeg',
-        name: 'chai biscuit',
+        name: 'Chai Biscuit',
         price: 10,
         category: 'breakfast'
     }, 
     {
         id: 7,
         image: 'img/plain thali.jpeg',
-        name: 'plain thali',
+        name: 'Plain Thali',
         price: 50,
         category: 'lunch'
     }, 
     {
         id: 8,
         image: 'img/maggy.jpeg',
-        name: 'maggy',
+        name: 'Maggy',
         price: 20,
         category: 'breakfast'
     },
     {
         id: 9,
         image: 'img/chicken thali.jpeg',
-        name: 'chicken thali',
+        name: 'Chicken Thali',
         price: 100,
         category: 'lunch'
     },
     {
         id: 10,
         image: 'img/paneer thali.jpeg',
-        name: 'paneer thali',
+        name: 'Paneer Thali',
         price: 70,
         category: 'lunch'
     }, 
     {
         id: 1,
         image: 'img/coffe.jpeg',
-        name: 'coffe',
+        name: 'Coffe',
         price: 15,
         category: 'breakfast'
     }, 
     {
         id: 12,
         image: 'img/omlet.jpeg',
-        name: 'omlet',
+        name: 'Omlet',
         price: 23,
         category: 'breakfast'
     },
     {
         id: 13,
         image: 'img/petis.jpeg',
-        name: 'petis',
+        name: 'Petis',
         price: 20,
         category: 'evening'
     },
     {
         id: 14,
         image: 'img/burger.jpeg',
-        name: 'burger',
+        name: 'Burger',
         price: 30,
         category: 'evening'
     }, 
     {
         id: 15,
         image: 'img/samosa.jpeg',
-        name: 'samosa',
+        name: 'Samosa',
         price: 25,
         category: 'breakfast'
     }, 
     {
         id: 16,
         image: 'img/roll.jpeg',
-        name: 'chicken roll',
+        name: 'Chicken roll',
         price: 60,
         category: 'evening'
     },
     {
         id: 17,
         image: 'img/roti.jpeg',
-        name: 'roti',
+        name: 'Roti',
         price: 20,
         category: 'dinner'
     },
     {
         id: 18,
         image: 'img/sandwitch.jpeg',
-        name: 'sandwitch',
+        name: 'Sandwitch',
         price: 35,
         category: 'evening'
     },
     {
         id: 19,
         image: 'img/puri.jpeg',
-        name: 'puri',
+        name: 'Puri',
         price: 30,
         category: 'dinner'
     },
     {
         id: 20,
         image: 'img/tadka.jpeg',
-        name: 'tadka',
+        name: 'Tadka',
         price: 40,
         category: 'dinner'
     },
     {
         id: 21,
         image: 'img/biryani.jpg',
-        name: 'biryani',
+        name: 'Biryani',
         price: 200,
         category: 'lunch'
     },
     {
         id: 22,
         image: 'img/pizza.jpeg',
-        name: 'pizza',
+        name: 'Pizza',
         price: 200,
         category: 'dinner'
     },
     {
         id: 23,
         image: 'img/chop.jpeg',
-        name: 'chop',
+        name: 'Chop',
         price: 20,
         category: 'breakfast'
     }
