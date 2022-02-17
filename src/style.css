@@ -1,15 +1,18 @@
-.c1{
+.c1 {
     background-color: #eea5e5;
     display: flex;
     justify-content: space-around;
 }
-.card{
+
+.card {
     align-items: center;
 }
-.card-body{
+
+.card-body {
     display: contents;
 }
-.c2{
+
+.c2 {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
@@ -17,4 +20,12 @@
     align-items: center;
     justify-content: space-around;
 
+}
+
+.c3 {
+    font-size: 57px;
+    font-family: fangsong;
+    font-style: normal;
+    font-weight: revert;
+    color: #2100d4;
 }

@@ -1,6 +1,6 @@
 const Menu = [
     {
-        id: 11,
+        id: 1,
         image: 'img/moshrom thali.jpeg',
         name: 'Mushroom Thali',
         price: 90,
@@ -12,14 +12,14 @@ const Menu = [
         name: 'Motton Thali',
         price: 150,
         category: 'lunch'
-    }, 
+    },
     {
         id: 3,
         image: 'img/chaomin.jpeg',
         name: 'Chaomin',
         price: 70,
-        category: 'evening'
-    }, 
+        category: 'evening snacks'
+    },
     {
         id: 4,
         image: 'img/chhole.jpeg',
@@ -40,14 +40,14 @@ const Menu = [
         name: 'Chai Biscuit',
         price: 10,
         category: 'breakfast'
-    }, 
+    },
     {
         id: 7,
         image: 'img/plain thali.jpeg',
         name: 'Plain Thali',
         price: 50,
         category: 'lunch'
-    }, 
+    },
     {
         id: 8,
         image: 'img/maggy.jpeg',
@@ -68,14 +68,14 @@ const Menu = [
         name: 'Paneer Thali',
         price: 70,
         category: 'lunch'
-    }, 
+    },
     {
-        id: 1,
+        id: 11,
         image: 'img/coffe.jpeg',
         name: 'Coffe',
         price: 15,
         category: 'breakfast'
-    }, 
+    },
     {
         id: 12,
         image: 'img/omlet.jpeg',
@@ -88,28 +88,28 @@ const Menu = [
         image: 'img/petis.jpeg',
         name: 'Petis',
         price: 20,
-        category: 'evening'
+        category: 'evening snacks'
     },
     {
         id: 14,
         image: 'img/burger.jpeg',
         name: 'Burger',
         price: 30,
-        category: 'evening'
-    }, 
+        category: 'evening snacks'
+    },
     {
         id: 15,
         image: 'img/samosa.jpeg',
         name: 'Samosa',
         price: 25,
         category: 'breakfast'
-    }, 
+    },
     {
         id: 16,
         image: 'img/roll.jpeg',
         name: 'Chicken roll',
         price: 60,
-        category: 'evening'
+        category: 'evening snacks'
     },
     {
         id: 17,
@@ -123,7 +123,7 @@ const Menu = [
         image: 'img/sandwitch.jpeg',
         name: 'Sandwitch',
         price: 35,
-        category: 'evening'
+        category: 'evening snacks'
     },
     {
         id: 19,
